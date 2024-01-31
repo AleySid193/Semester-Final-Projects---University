@@ -1,0 +1,50 @@
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\bin\Debug\DB_FINAL_PROJECT_2.exe.config
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\bin\Debug\DB_FINAL_PROJECT_2.exe
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\bin\Debug\DB_FINAL_PROJECT_2.pdb
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.Form1.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.Properties.Resources.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.exe
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.pdb
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.VendorUpdateForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.CostumerForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.ProductForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.RecieptForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.VendorForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.CostumerUpdate.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.MainPageForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.ProductUpdate.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.MarketingForm.resources
+C:\Users\lenovo\source\repos\DB_FINAL_PROJECT_2\obj\Debug\DB_FINAL_PROJECT_2.StocksForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\bin\Debug\DB_FINAL_PROJECT_2.exe.config
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.exe
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.pdb
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\bin\Debug\DB_FINAL_PROJECT_2.exe
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\bin\Debug\DB_FINAL_PROJECT_2.pdb
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.csprojResolveAssemblyReference.cache
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.CostumerForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.MainPageForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.ProductForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.ProductUpdate.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.Properties.Resources.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.RecieptForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.StocksForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.VendorForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.VendorUpdateForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.csproj.GenerateResource.Cache
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.CostumerUpdate.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.CustomerViewForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.VendorViewForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.ProductViewForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.AdminPageForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.ProductSearchForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.MarketingMainForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.CustomerSearchForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.VendorSearchForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.ProfileForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.AdminAddForm.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.printcreceipt.resources
+C:\Users\Ali Ahmad\OneDrive\Desktop\DB FINAL PROJECT FILES\DB_FINAL_PROJECT_2 (1)\obj\Debug\DB_FINAL_PROJECT_2.AdminUpdateForm.resources
